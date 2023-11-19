@@ -1,0 +1,205 @@
+* {
+  box-sizing: border-box;
+}
+.bg {
+  width: 100.8%;
+  height: 1024px;
+  padding: 239px 124px;
+  background: url("../images/background.png");
+  background-size: cover;
+  margin: -8px;
+  flex-direction: column;
+  align-items: center;
+}
+.menubg {
+  width: 489px;
+  height: 636px;
+  position: absolute;
+  top: 194px;
+  left: 436px;
+}
+.menucolor {
+  width: 489px;
+  height: 636px;
+  background: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.signin {
+  width: 119px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 102px;
+  left: 184px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 36px;
+  text-align: left;
+}
+.cant {
+  width: 60px;
+  color: rgba(193,193,193,1);
+  position: absolute;
+  top: 569px;
+  left: 213px;
+  font-family: Khand;
+  font-weight: Bold;
+  font-size: 11px;
+  text-align: left;
+}
+.create {
+  width: 72px;
+  color: rgba(193,193,193,1);
+  position: absolute;
+  top: 589px;
+  left: 209px;
+  font-family: Khand;
+  font-weight: Bold;
+  font-size: 11px;
+  text-align: left;
+}
+.password {
+  width: 389px;
+  height: 46px;
+  position: absolute;
+  top: 424px;
+  left: 484px;
+}
+.passwordbg {
+  width: 389px;
+  height: 46px;
+  background: rgba(240,240,240,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.passwordtxt {
+  width: 47px;
+  color: rgba(193,193,193,1);
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: Khand;
+  font-weight: Bold;
+  font-size: 13px;
+  text-align: left;
+}
+.username {
+  width: 389px;
+  height: 46px;
+  position: absolute;
+  top: 364px;
+  left: 484px;
+}
+.usernamebg {
+  width: 389px;
+  height: 46px;
+  background: rgba(240,240,240,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.usernametxt {
+  width: 48px;
+  color: rgba(193,193,193,1);
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: Khand;
+  font-weight: Bold;
+  font-size: 13px;
+  text-align: left;
+}
+.Stay {
+  width: 93px;
+  height: 14px;
+  position: absolute;
+  top: 498px;
+  left: 484px;
+}
+.staycheckbox {
+  width: 14px;
+  height: 14px;
+  background: rgba(240,240,240,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+}
+.staytxt {
+  width: 74px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 19px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 11px;
+  text-align: left;
+}
+.button {
+  width: 84px;
+  height: 84px;
+  background: url("../images/Cool\ arrow.png");
+  position: absolute;
+  top: 635px;
+  left: 638px;
+}
+.v1_18 {
+  width: 84px;
+  height: 84px;
+  background: rgba(217,217,217,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.v1_19 {
+  width: 80px;
+  height: 80px;
+  background: rgba(255,255,255,1);
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.v1_20 {
+  width: 30px;
+  height: 28px;
+  background: rgba(217,217,217,1);
+  position: absolute;
+  top: 28px;
+  left: 27px;
+}
+
+/* Link color */
+a:link {
+  color: rgba(193,193,193,1);
+}
+a:visited {
+  color: rgba(193,193,193,1);
+}
+a:hover {
+  color: rgba(193,193,193,1);
+}
+a:active {
+  color: rgba(193,193,193,1);
+}
