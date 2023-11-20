@@ -39,7 +39,7 @@
   text-align: left;
 }
 .v24_130 {
-  width: 60px;
+  width: 70px;
   color: rgba(193,193,193,1);
   position: absolute;
   top: 569px;
@@ -80,7 +80,7 @@
   border-bottom-right-radius: 8px;
 }
 .v24_134 {
-  width: 80px;
+  width: 365px;
   color: rgba(193,193,193,1);
   position: absolute;
   top: 13px;
@@ -111,7 +111,7 @@
   border-bottom-right-radius: 8px;
 }
 .v24_147 {
-  width: 47px;
+  width: 365px;
   color: rgba(193,193,193,1);
   position: absolute;
   top: 13px;
@@ -141,7 +141,7 @@
   border-bottom-right-radius: 8px;
 }
 .v24_137 {
-  width: 48px;
+  width: 365px;
   color: rgba(193,193,193,1);
   position: absolute;
   top: 13px;
@@ -204,3 +204,21 @@ a:hover {
 a:active {
   color: rgba(193,193,193,1);
 }
+
+/* Input background */
+
+input[type=text] {
+  width: 100%;
+  border: 0px;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  background-color: transparent;
+} 
+
+input[type=password] {
+  width: 100%;
+  border: 0px;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  background-color: transparent;
+} 
